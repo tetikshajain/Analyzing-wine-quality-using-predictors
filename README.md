@@ -1,2 +1,3 @@
 # STAT 306 Project 
-This is analysis of the Wine Quality Dataset by Group A3: Chris Jung, Justin Lee, Tetiksha Jain, Ayush Vora
+•	This project analyzes wine quality data to predict the alcohol percentage using Multivariate Linear Regression
+•	Utilized various visualizations, like histograms and box plots, to better understand the distribution of key variables
